@@ -10,16 +10,16 @@
 <table>
   <tr>
     <td align="center" valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" /><br/>
+      <sub>Go</sub>
+    </td>
+    <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /><br/>
       <sub>JavaScript</sub>
     </td>
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /><br/>
       <sub>TypeScript</sub>
-    </td>
-    <td align="center" valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" /><br/>
-      <sub>Go</sub>
     </td>
     <td align="center" valign="top">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" /><br/>
@@ -59,7 +59,6 @@
 
 ### 🧠 Currently working on:
 - 🧑‍🏫 LLM/RAG chat bot for help business, which able to answer to user's questions based on company documentation (Go)
-- 🎬 Backend for video conversion service MP4 → GIF (Node.js)
-- ☁️ Metrics collector service (Go)
-
+- 🎬 Telegram bot for code review: assigns tasks to reviewers from telegram chat (Go)
+- ☁️ Metrics collector service: collects CPU and Memory metrics and saves it to PostgreSQL DB
 ### You can find out more in my pins:
