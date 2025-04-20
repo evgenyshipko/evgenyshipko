@@ -58,7 +58,7 @@
 ---
 
 ### 🧠 Currently working on:
-- 🧑‍🏫 LLM/RAG chat bot for help business, which able to answer to user's questions based on company documentation (Go)
-- 🎬 Telegram bot for code review: assigns tasks to reviewers from telegram chat (Go)
-- ☁️ Metrics collector service: collects CPU and Memory metrics and saves it to PostgreSQL DB
+- 🧑‍🏫 [LLM/RAG service](https://github.com/evgenyshipko/go-rag-chat-helper) for help business, which able to answer to user's questions based on company documentation (Go)
+- 🎬 [Telegram bot for code review](https://github.com/evgenyshipko/code-review-tg-bot): assigns tasks to reviewers from telegram chat (Go)
+- ☁️ [Metrics collector service](https://github.com/evgenyshipko/golang-metrics-collector): collects CPU and Memory metrics and saves it to PostgreSQL DB
 ### You can find out more in my pins:
